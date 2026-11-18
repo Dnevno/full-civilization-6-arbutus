@@ -196,7 +196,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Sid Meier's Civilization VI · Updated 2026-11-17 · Shared under the MIT License*
+*Sid Meier's Civilization VI · Updated 2026-11-18 · Shared under the MIT License*
 
 
-Updated 2026-11-17.
+Updated 2026-11-18.
